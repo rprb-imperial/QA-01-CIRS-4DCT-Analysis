@@ -20,10 +20,3 @@
 #                   _____________________________________________________________________________
 #
 ######################################################################################################################################
-# Add in:
-#           Button/Option to rename scans by protocol?  Or adjust the lists to display protocol after and look up from a different list or something?
-#           Change drop down to ticks to process multiple images at once?  Will need to add in a for loop
-#           Add in pause if no groups to allow groups to be made
-#           
-#
-######################################################################################################################################
