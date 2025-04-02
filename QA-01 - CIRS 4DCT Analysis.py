@@ -386,7 +386,7 @@ else:
         amp_ap_act = max(y_coords_cor) - min(y_coords_cor)
         amp_si_act = max(z_coords_cor) - min(z_coords_cor)
         # Uploads to QATrack+
-        root = "http://10.157.79.80/api"
+        root = "http://10.157.79.118/api"
         # Dirctly provide API token
         token = "e6ed748b207fcf1b07cd7c0c22264abb14115922"
         headers = {"Authorization": "Token %s" % token}
